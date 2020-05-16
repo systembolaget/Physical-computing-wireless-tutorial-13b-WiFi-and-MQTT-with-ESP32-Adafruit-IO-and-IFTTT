@@ -16,12 +16,12 @@
 #define ESP32_RESET 4 // AirLift ESP32 reset pin
 #define SPIWIFI_ACK 3 // AirLift ESP32 ready pin
 #define ESP32_GPIO0 -1 // AirLift ESP32 pin not used
-#define WLAN_SSID "Lagom"
-#define WLAN_PASS "63948100905083530879"
+#define WLAN_SSID "#"
+#define WLAN_PASS "#"
 #define AIO_SERVER "io.adafruit.com" // MQTT broker/server host
 #define AIO_SERVERPORT 8883 // Secure port, 1883 insecure port
-#define AIO_USERNAME "Systembolaget"
-#define AIO_KEY "aio_kDpJ433pAtTmV770wRnyRaFpc0tR"
+#define AIO_USERNAME "#"
+#define AIO_KEY "#"
 
 const byte pinSwitch = A0; // Analog input pin from momentary switch
 const byte pinSensor = A1; // Analog input pin from photoresistor
