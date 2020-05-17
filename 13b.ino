@@ -284,7 +284,7 @@ void connectToWLAN()
   Serial.println("Trying to connect to WLAN router");
 
   // Indicate there is no WLAN router connection just yet
-  WiFi.setLEDs(128, 255, 0); // Orange
+  WiFi.setLEDs(96, 255, 0); // Orange
 
   do
   {
