@@ -29,7 +29,8 @@ Easy Arduino TX. How to push sensor or event data to a responsive dashboard and 
 €  1,00 2,1mm DC barrel-jack
 €  2,00 1µF & 100 µF 10V el. caps, 4,7kΩ resistor
 €  3,00 DURACELL Plus 9V battery
-€ 49,00
+€  2,00 9V battery clip
+€ 51,00
 </pre>  
 
 ### Useful links
