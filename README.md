@@ -1,6 +1,6 @@
 # Physical computing wireless tutorial - WiFi and MQTT with ESP32, Adafruit IO and IFTTT
 
-Easy Arduino TX to cloud services. How to send and chart data with Adafruit IO and trigger tweets from a momentary switch button or other event
+Easy Arduino TX to cloud services. How to publish and tweet       send and chart data with Adafruit IO and trigger tweets from a momentary switch button or other event
 
 ### Result
 
@@ -21,9 +21,9 @@ Easy Arduino TX to cloud services. How to send and chart data with Adafruit IO a
 €  2,00 Breadboard mini modular black
 €  1,00 Jumper cables
 €  1,00 2,1mm DC barrel-jack
-€  2,00 1µF & 1000 µF 10V el. caps, 4,7kΩ resistor
-€  8,00 MEANWELL GS12E05-P1I PSU
-€ 54,00
+€  2,00 1µF & 100 µF 10V el. caps, 4,7kΩ resistor
+€  3,00 DURACELL Plus 9V battery
+€ 49,00
 </pre>  
 
 ### Useful links
