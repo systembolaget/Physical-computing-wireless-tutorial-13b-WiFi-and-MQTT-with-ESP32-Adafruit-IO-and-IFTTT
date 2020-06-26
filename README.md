@@ -1,12 +1,12 @@
 # Physical computing wireless tutorial - WiFi and MQTT with ESP32, Adafruit IO and IFTTT
 
-Easy Arduino TX to cloud services. How to publish and tweet       send and chart data with Adafruit IO and trigger tweets from a momentary switch button or other event
+Easy Arduino TX. How to push sensor or event data to a responsive dashboard and trigger tweets or other notifications
 
-**13b1** (basic principle) - connect to WLAN router and MQTT broker with two functions; TX dummy data (random numbers) 
+**13b1** (basic principle) - auto connect/reconnect to WLAN router and MQTT broker with two functions; TX dummy data (random numbers) 
 
-**13b2** (working prinicple) - connect to WLAN router and MQTT broker with a state machine; TX dummy data (random numbers)  
+**13b2** (working prinicple) - auto connect/reconnect to WLAN router and MQTT broker with a state machine; TX dummy data (random numbers)  
 
-**13b3** (fully working principle) - connect to WLAN router and MQTT broker with a state machine; TX photoresistor values, TX momentary switch status; tweet alert via MQTT broker and IFTTT
+**13b3** (fully working principle) - auto connect/reconnect to WLAN router and MQTT broker with a state machine; TX photoresistor values, TX momentary switch status; tweet alert via MQTT broker and IFTTT
 
 ### Result
 
