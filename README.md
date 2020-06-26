@@ -2,6 +2,10 @@
 
 Easy Arduino TX to cloud services. How to publish and tweet       send and chart data with Adafruit IO and trigger tweets from a momentary switch button or other event
 
+13b1 (basic principle) - connect to WLAN router and MQTT broker with two functions; TX dummy data (random numbers)
+13b2 (working prinicple) - connect to WLAN router and MQTT broker with a state machine; TX dummy data (random numbers)
+13b3 (fully working principle) - connect to WLAN router and MQTT broker with a state machine; TX photoresistor values, TX momentary switch status and tweet via IFTTT
+
 ### Result
 
 ![](Assets/13b%20result.jpg)
