@@ -18,12 +18,12 @@
 #define ESP32_GPIO0 -1 // AirLift ESP32 pin not used
 //#define WLAN_SSID "#" // DSL router SSID
 //#define WLAN_PASS "#" // DSL router key
-#define WLAN_SSID "Smartphone" // Smartphone hotspot SSID
-#define WLAN_PASS "dcb62d5396ad" // Smartphone hotspot key
+#define WLAN_SSID " " // Smartphone hotspot SSID
+#define WLAN_PASS " " // Smartphone hotspot key
 #define AIO_SERVER "io.adafruit.com" // MQTT broker/server host
 #define AIO_SERVERPORT 8883 // Secure port, 1883 insecure port
-#define AIO_USERNAME "LagomBra" // AIO user name
-#define AIO_KEY "aio_sLpl67qR53hH7aqSFvfEGrp5Ss9O" // AIO key
+#define AIO_USERNAME " " // AIO user name
+#define AIO_KEY " " // AIO key
 const int intervalWLAN = 1000; // WLAN (re-)connection interval
 const int intervalPublish = 7000; // MQTT broker publish interval
 
