@@ -20,12 +20,12 @@
 
 //#define WLAN_SSID "#" // DSL router SSID
 //#define WLAN_PASS "#" // DSL router key
-#define WLAN_SSID "Smartphone" // Smartphone hotspot SSID
-#define WLAN_PASS "dcb62d5396ad" // Smartphone hotspot key
+#define WLAN_SSID " " // Smartphone hotspot SSID
+#define WLAN_PASS " " // Smartphone hotspot key
 #define AIO_SERVER "io.adafruit.com" // MQTT broker/server host
 #define AIO_SERVERPORT 8883 // Secure port, 1883 insecure port
-#define AIO_USERNAME "LagomBra" // AIO user name
-#define AIO_KEY "aio_sLpl67qR53hH7aqSFvfEGrp5Ss9O" // AIO key
+#define AIO_USERNAME " " // AIO user name
+#define AIO_KEY " " // AIO key
 
 const int intervalWLAN = 1000; // WLAN (re-)connection interval
 const int intervalMQTT = 1000; // MQTT (re-)connection interval
@@ -296,7 +296,7 @@ void connectToWLANAndMQTT()
   // are disconnected; therefore set the state machine's initial state
   static byte stateConnection = WLAN_DOWN_MQTT_DOWN;
 
-  // Next, check if the previously successful WLAN router and MQTT broker
+  // Next, check if a previously successful WLAN router and MQTT broker
   // connection was dropped
   if (WiFi.status() == WL_DISCONNECTED && stateConnection == 4)
   {
