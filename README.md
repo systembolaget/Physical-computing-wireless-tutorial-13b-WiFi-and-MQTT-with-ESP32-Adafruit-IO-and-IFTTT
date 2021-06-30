@@ -8,9 +8,11 @@ Easy Arduino TX. How to push sensor or event data to a responsive dashboard and 
 
 **13b3** (fully working principle) - auto connect/reconnect to WLAN router and MQTT broker with a state machine; TX photoresistor values, TX momentary switch status; tweet alert via MQTT broker and IFTTT
 
-### Result
+### Setup
 
-![](Assets/13b%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/13b%20result.jpg)](https://www.youtube.com/watch?v=MPAtrs_MFf0)
 
 ### Schematic
 
